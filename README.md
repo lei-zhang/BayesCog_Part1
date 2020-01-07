@@ -6,7 +6,7 @@ ___
 ### What's new:
  - Add more aspects of basic R
  - Add examples of joint probability, conditional probability
- - Add details of the interpretation of RL parameters
+ - Add details of the interpretation on RL parameters
  
 ### List of Folders and their Content
 
