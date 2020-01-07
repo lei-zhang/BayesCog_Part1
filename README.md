@@ -1,4 +1,4 @@
-**Teaching materials for my *BayesCog* workshop <br />
+**Teaching materials for my *BayesCog* workshop, Part 1 <br />
 UKE, Hamburg, 2020** <br />
 
 ___
@@ -6,7 +6,6 @@ ___
 ### What's new:
  - Add more aspects of basic R
  - Add examples of joint probability, conditional probability
- - Add details of the interpretation on RL parameters
  
 ### List of Folders and their Content
 
@@ -18,12 +17,6 @@ Folder | Task | Model
 03.bernoulli_coin | Coin flip  | Bernoulli Model
 04.regression_height | Observed weight and height | Linear regression model
 05.regression_height_poly |  Observed weight and height | Linear regression model
-06.reinforcement_learning  | 2-armed bandit task |   Simple reinforcement learning (RL)
-07.optm_rl   | 2-armed bandit task |   Simple reinforcement learning (RL)
-08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
-09.debugging |  Memory Retention | Exponential decay model
-10.model_based | 2-armed bandit task | Simple RL model
-11.delay_discounting | Delay discounting task | Hyperbolic and exponential discounting model
 
 ___
 
