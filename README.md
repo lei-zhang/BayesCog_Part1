@@ -1,5 +1,6 @@
-**Teaching materials for my "Bayesian Statistics and Bayesian Cognitive Modeling" (*BayesCog*) workshop, Part 1 <br />
+**Bayesian Statistics and Bayesian Cognitive Modeling (*BayesCog*), Part 1 <br />
 UKE, Hamburg (online), 2021** <br />
+[Dr. Lei Zhang](http://lei-zhang.net/)
 
 ___
 
@@ -7,6 +8,9 @@ ___
 [![GitHub language count](https://img.shields.io/github/languages/count/lei-zhang/BayesCog_Part1?color=brightgreen&logo=github)](https://github.com/lei-zhang/BayesCog_Part1)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lei-zhang/bayescog_part1?color=orange&logo=github)](https://github.com/lei-zhang/BayesCog_Part1) <br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/lei_zhang_lz?label=%40lei_zhang_lz)](https://twitter.com/lei_zhang_lz)
+
+Teaching materials for my *BayesCog* workshop, Part 1.
+
 
 ### What's new 
 May 2021:
