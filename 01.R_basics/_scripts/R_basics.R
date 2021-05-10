@@ -94,8 +94,8 @@ class(df$f)
 
 t <- runif(1) # random number between 0 and 1
 if (t <= 1/3) {
-    cat("t =",t , ", t <= 1/3. \n")
-} else if (t > 2/3) {
+    cat("t =", , ", t <= 1/3. \n")
+} else if () {
     cat("t =", t, ", t > 2/3. \n")
 } else {
     cat("t =", t, ", 1/3 < t <= 2/3. \n")
@@ -106,7 +106,7 @@ if (t <= 1/3) {
 #   - Print it one by one 
 month_name <- format(ISOdate(2019,1:12,1),"%B")
 for (j in 1:length(month_name) ) {
-    cat('This month is', month_name[j], '\n' )
+    cat()
 }
 
 #------------------------------------------------------------------------------
@@ -119,7 +119,7 @@ sem <- function(x) {
 
 # calculate the meam 
 my_mean <- function(x) {
-    x_bar <- sum(x, na.rm = T) / length(na.omit(x))
+    x_bar <- 
     return(x_bar)
 }
 
@@ -170,7 +170,7 @@ data_dir = '_data/RL_raw_data'
 
 rawdata = c()
 for (s in 1:ns) {
-    sub_file = file.path(data_dir, sprintf('sub%02i/raw_data_sub%02i.txt',s,s))
+    sub_file = file.path(, sprintf('sub%02i/raw_data_sub%02i.txt',s,s))
     sub_data = read.table(sub_file, header = T, sep = ",")
     rawdata = rbind(rawdata, sub_data)
 }

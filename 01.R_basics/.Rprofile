@@ -10,6 +10,7 @@ options(stringsAsFactors=FALSE)
     cat("\nWelcome to the Bayesian course! ", date(), "\n") 
     cat('===========================================================')
     #cat('===========================================================')
+
  
 }
 
