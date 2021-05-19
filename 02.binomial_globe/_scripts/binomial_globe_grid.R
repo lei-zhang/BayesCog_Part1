@@ -14,7 +14,7 @@
 # inits
 theta_start <- 0
 theta_end   <- 1
-n_grid  <- 20
+n_grid  <- 100
 w <- 6
 N <- 9
 
