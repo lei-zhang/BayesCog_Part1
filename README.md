@@ -2,7 +2,7 @@
 UKE, Hamburg (online), 2021** <br />
 [Dr. Lei Zhang](http://lei-zhang.net/)
 
-[Materials from Part 2 can be found here.](https://github.com/lei-zhang/BayesCog_Part2)
+Materials from Part 2 can be found [here](https://github.com/lei-zhang/BayesCog_Part2).
 
 ___
 
