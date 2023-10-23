@@ -1,5 +1,5 @@
 **Bayesian Statistics and Bayesian Cognitive Modeling (*BayesCog*), Part 1 <br />
-UKE, Hamburg (online), 2021** <br />
+UKE, Hamburg (online), 2023** <br />
 [Dr. Lei Zhang](http://lei-zhang.net/)
 
 Materials from Part 2 can be found [here](https://github.com/lei-zhang/BayesCog_Part2).
@@ -15,7 +15,10 @@ Teaching materials for my *BayesCog* workshop, Part 1.
 
 
 ### What's new 
-May 2021:
+Oct. 2023:
+ - Updated some recent literature and materials
+
+May 2023:
  - Added Marr's three levels at the beginning
  - Updated some recent literature
 
@@ -38,7 +41,7 @@ Folder | Task | Model
 ___
 
 
-For bug reports, please contact Lei Zhang ([lei.zhang@univie.ac.at](mailto:lei.zhang@univie.ac.at), or [@lei_zhang_lz](https://twitter.com/lei_zhang_lz)).
+For bug reports, please contact Lei Zhang ([l.zhang.13@bham.ac.uk](mailto:l.zhang.13@bham.ac.uk), or [@lei_zhang_lz](https://twitter.com/lei_zhang_lz)).
 
 Thanks to [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and [shields.io](https://shields.io/).
 ___
