@@ -3,8 +3,8 @@
 # =============================================================================
 # binomial globe example
 #
-# Lei Zhang 
-# lei.zhang@univie.ac.at
+# Dr. Lei Zhang, ALPN Lab, University of Birmingham
+# l.zhang.13@bham.ac.uk
 #
 # Adapted from McElreath, 2016
 

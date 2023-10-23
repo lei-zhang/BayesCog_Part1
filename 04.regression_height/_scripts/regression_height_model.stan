@@ -13,7 +13,7 @@ parameters {
 model {
   alpha ~ normal(170, 100);
   beta  ~ normal(0, 20);
-  sigma ~ cauchy(0, 20);
+  sigma ~ cauchy(0, 20); //halfcauchy(0,20) 
 
   height ~ normal(alpha + beta * weight, sigma);
 }

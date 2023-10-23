@@ -3,8 +3,8 @@
 # =============================================================================
 # R basics and probability functions
 #
-# Lei Zhang, SCAN-Unit, univie
-# lei.zhang@univie.ac.at
+# Dr. Lei Zhang, ALPN Lab, University of Birmingham
+# l.zhang.13@bham.ac.uk
 
 # =============================================================================
 #### Exercise I #### 
