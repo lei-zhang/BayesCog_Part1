@@ -1,6 +1,6 @@
 **Bayesian Statistics and Bayesian Cognitive Modeling (*BayesCog*), Part 1 <br />
 UKE, Hamburg (hybrid), 2023** <br />
-[Dr. Lei Zhang](http://lei-zhang.net/)
+[Dr. Lei Zhang, University of Birmingham, UK](http://lei-zhang.net/)
 
 Materials from Part 2 can be found [here](https://github.com/lei-zhang/BayesCog_Part2).
 
